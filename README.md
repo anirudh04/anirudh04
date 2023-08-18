@@ -1,5 +1,5 @@
 <h2 align="left">👋Hi, I'm Anirudh Khandelwal</h2>
-<p align="left">  I am genuinely fascinated by the power of data, design, and technology because it can shape extraordinary customer experiences. In my view, a successful product or service emerges from a profound understanding of stakeholders' needs, complemented by iterations aligned with strategic business goals. This philosophy fuels my passion for data analysis and its potential to revolutionize businesses. </p>
+<p align="left">  I am fascinated by the power of data, design, and technology because it can shape extraordinary customer experiences. In my view, a successful product or service emerges from a profound understanding of stakeholders' needs, complemented by iterations aligned with strategic business goals. This philosophy fuels my passion for data analysis and its potential to revolutionize businesses. </p>
 
 - 🔭 Currently, I'm immersed in honing my skills in Data Science, delving deep into data manipulation, analysis, and interpretation.
 - 🌱 Currently exploring **Data Science**
